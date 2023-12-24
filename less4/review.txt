@@ -1,0 +1,5 @@
+xu ly su kien tren event
+xu ly su kien voi state (class component)
+xu ly su kien voi props
+controlled component
+render
